@@ -6,5 +6,5 @@
 
 A Flutter application which has a avatar and cards implementation  
 **offline!**
-![ The UI of the application ](https://ibb.co/VQ5HYg1)
+![ The UI of the application ](https://i.ibb.co/61Lv0HM/Screenshot-20200719-140444.jpg)
 
